@@ -16,8 +16,8 @@ from aiogram.types import (
 )
 
 # ================= НАСТРОЙКИ: ВПИШИТЕ СВОИ ДАННЫЕ =================
-BOT_TOKEN = "ВСТАВЬТЕ_ТОКЕН_СЮДА"  # токен от @BotFather, внутри кавычек
-ADMIN_ID = 0  # ваш Telegram ID, только цифры, без кавычек. Например: 123456789
+BOT_TOKEN = "9120340423:AAE5Ub1NHqWxHK4fllHqUugJ9GqyO7_VAww"  # токен от @BotFather, внутри кавычек
+ADMIN_ID = 8738748123  # ваш Telegram ID, только цифры, без кавычек. Например: 123456789
 # ===================================================================
 
 PLAYEROK_URL = "https://playerok.com/profile/yunogasaiip/products"
