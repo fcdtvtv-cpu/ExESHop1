@@ -452,6 +452,7 @@ async def show_reviews(call: CallbackQuery):
 # ---------------- ЗАПУСК ----------------
 async def main():
     logging.basicConfig(level=logging.INFO)
+    print(">>> Exe shop v2 (один файл) запущен", flush=True)
     if not BOT_TOKEN or BOT_TOKEN == "ВСТАВЬТЕ_ТОКЕН_СЮДА":
         raise SystemExit("Впишите BOT_TOKEN в начале main.py")
     if not ADMIN_ID:
